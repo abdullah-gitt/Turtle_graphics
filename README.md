@@ -26,28 +26,7 @@ This repository contains different drawings, patterns, logos, and digital artwor
 * Geometric shapes
 * Colors and patterns
 
-## 📂 Repository Structure
 
-```text
-python-turtle-art/
-│
-├── doraemon.py
-├── 100_squares.py
-├── combined_art.py
-├── audi_logo.py
-├── amazing_art.py
-├── nice_circle.py
-│
-├── images/
-│   ├── doraemon.png
-│   ├── 100_squares.png
-│   ├── nice_circle.png
-│   ├── audi_logo.png
-│   ├── amazing_art.png
-│   └── nice_circle.png
-│
-└── README.md
-```
 
 ## ▶️ How to Run
 

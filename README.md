@@ -93,7 +93,7 @@ python amazing_art.py
 
 ### 🟥 100 Square Art
 
-![100 Square Art](images/100_squares.png)
+![100 Square Art](images/100_square.png)
 
 ### 🔴🔵🟢 Audi Logo
 
